@@ -26,7 +26,7 @@
     "@kyberswap/ks-sdk-core": "^0.0.16",
     "@kyberswap/ks-sdk-elastic": "^0.0.43",
     "@nestjs/platform-express": "8.4.2",
-    "@nestjs/schedule": "^2.1.0",
+    "@nestjs/schedule": "^2.2.0",
     "@pendle/sdk": "^2.5.8",
     "@types/moment-duration-format": "^2.2.3",
     "@uniswap/sdk-core": "^3.0.1",
